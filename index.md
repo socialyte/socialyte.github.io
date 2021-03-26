@@ -4,5 +4,5 @@ name: Socialyte
 title: null
 ---
 
-<img style="display: block; margin: auto;"
+<img style="width: 50px; display: block; margin: auto; valign: middle;"
 src="https://avatars.githubusercontent.com/u/81434770">
