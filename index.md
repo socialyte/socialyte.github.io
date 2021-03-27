@@ -17,8 +17,9 @@ title: null
   transform-style: preserve-3d;
 }
 .outermwp:hover .innermwp {
+  width: 33%;
   transition: 0.9s;
   transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
 }
 </style>
-<a class="outermwp" style="width: 40%" href="mailto:socialyte@socialyte.net"><img class="innermwp" src="/favicon.ico" /></a>
+<a class="outermwp" href="mailto:socialyte@socialyte.net"><img class="innermwp" src="/favicon.ico" /></a>
