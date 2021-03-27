@@ -14,20 +14,16 @@ title: null
   background: transparent;
 }
 .innermwp {
-  transition: transform 0.6s;  
-  transform-style: preserve-3d;
-}   
-img.innermwp {
-  max-width: 25vw; 
-  max-height: 25vh; 
-}
-.innermwp {
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
+img.innermwp {
+  max-width: 25vw;
+  max-height: 25vh;
+}
 .outermwp:hover .innermwp {
   transition: 0.9s;
-  transform: rotate(180deg) rotateX(180deg) rotateY(180deg) translate(-50%, -50%);
+  transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
 }
 </style>
 <a class="outermwp" href="mailto:socialyte@socialyte.net"><img class="innermwp" src="/favicon.ico" /></a>
