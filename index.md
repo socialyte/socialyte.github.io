@@ -21,4 +21,4 @@ title: null
   transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
 }
 </style>
-<a class="outermwp" href="mailto:socialyte@socialyte.net"><img class="innermwp" style="width: 10%" src="/favicon.ico" /></a>
+<a class="outermwp" href="mailto:socialyte@socialyte.net"><img class="innermwp" style="width: 15%" src="/favicon.ico" /></a>
