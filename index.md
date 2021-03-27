@@ -4,19 +4,22 @@ name: Socialyte
 title: null
 ---
 <style>
-.outermwp { 
+.outermwp {
   position: absolute;
-  width: 33%;
-  top: 50%;  
-  left: 50%; 
+  top: 50%;
+  left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   display: inline-block;
   background: transparent;
 }
+.innermwp {
+  transition: transform 0.6s;  
+  transform-style: preserve-3d;
+}   
 img.innermwp {
-  max-width: 25vw;
-  max-height: 25vh;
+  max-width: 25vw; 
+  max-height: 25vh; 
 }
 .innermwp {
   transition: transform 0.6s;
