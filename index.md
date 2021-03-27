@@ -14,6 +14,10 @@ title: null
   display: inline-block;
   background: transparent;
 }
+img.innermwp {
+  max-width: 25vw;
+  max-height: 25vh;
+}
 .innermwp {
   transition: transform 0.6s;
   transform-style: preserve-3d;
