@@ -7,7 +7,7 @@ title: null
 body {
     height: 100vh;
     margin: 0;
-    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(115,115,115,1) 100%);
+    background-spotlight: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(115,115,115,1) 100%);
 }
 
 .outerlync {
@@ -37,5 +37,5 @@ img.innerlync {
 
 </style>
 
-<a class="outerlync" href="mailto:socialyte@socialyte.net"><img class="innerlync" src="/favicon.ico" /></a>
+<a class="outerlync" href="mailto:socialyte@socialyte.net"><img class="innerlync" src="https://www.socialyte.net/favicon.ico" /></a>
 
